@@ -1,0 +1,29 @@
+.judul{
+	text-align: center;
+	padding-top: 50px;
+}
+.a{
+	color: blue;
+}
+.b{
+	color: green;
+}
+.c{
+	color: red;
+}
+.e{
+	color: yellow;
+}
+.d{
+	color: red;
+}
+.judul2{
+	text-align: center;
+	color: blue;
+}
+.judul3{
+	color: blue;
+}
+.judul2.h6{
+	margin-right: 0px;
+}
